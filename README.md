@@ -30,9 +30,3 @@ The project involves the following key steps:
 7. **Cost Estimation:** Assign feature weights to layout attributes in terms of dollars to predict estimated costs associated with each layout.
 
 8. **Further Analysis:** Explore additional possibilities for leveraging image data and mined information to enhance design processes and productivity.
-
-## Repository Structure
-
-- `data/`: Contains datasets and resources used in the project.
-- `scripts/`: Includes Python scripts for different project tasks such as data preprocessing, analysis, and modeling.
-- `results/`: Stores the results and outputs generated during the project.
